@@ -29,6 +29,15 @@
 
   <hr />
 
-  <!-- E-mail em fonte cinza -->
-  <p><font color="#888888">samuel.calefes@gmail.com</font></p>
+  <!-- Novo Header: Redes Sociais & Contato -->
+  <h2>🌐 Redes Sociais & Contato</h2>
+  <p>
+    <a href="https://instagram.com/guesntyy" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="mailto:samuel.calefes@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    </a>
+  </p>
 </div>
