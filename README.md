@@ -24,13 +24,13 @@
 
   <!-- Logos SENAI e WEG lado a lado -->
   <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_Logo.png" height="40" alt="Logo SENAI" />
+    <img src="https://raw.githubusercontent.com/deicid/SENAI-Logo/main/senai.png" height="35" alt="Logo SENAI" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo-WEG.png" height="40" alt="Logo WEG" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/weg/weg-original.svg" height="35" alt="Logo WEG" onerror="this.onerror=null; this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo-WEG.png/320px-Logo-WEG.png'" />
   </p>
 
   <hr />
 
   <!-- E-mail em fonte cinza -->
-  <p><font color="#888888">✉️samuel.calefes@gmail.com</font></p>
+  <p><font color="#888888">seu.email@exemplo.com</font></p>
 </div>
