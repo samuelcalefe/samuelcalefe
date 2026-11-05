@@ -7,8 +7,6 @@
   <!-- Header -->
   <h1>Olá, eu sou o Samuel! 😌</h1>
 
-  <hr />
-
   <!-- Subtítulo / Descrição -->
   <p><strong>Aprendiz CentroWEG / Programador / Desenhista 🖌️</strong></p>
 
@@ -22,15 +20,15 @@
 
   <hr />
 
-  <!-- Logos SENAI e WEG lado a lado -->
+  <!-- Logos SENAI e WEG lado a lado (usando Badges confiáveis para GitHub) -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/deicid/SENAI-Logo/main/senai.png" height="35" alt="Logo SENAI" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/weg/weg-original.svg" height="35" alt="Logo WEG" onerror="this.onerror=null; this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo-WEG.png/320px-Logo-WEG.png'" />
+    <img src="https://img.shields.io/badge/SENAI-005CA9?style=for-the-badge&logoColor=white" height="35" alt="SENAI" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/WEG-00579E?style=for-the-badge&logoColor=white" height="35" alt="WEG" />
   </p>
 
   <hr />
 
   <!-- E-mail em fonte cinza -->
-  <p><font color="#888888">seu.email@exemplo.com</font></p>
+  <p><font color="#A9A9A9">✉️samuel.calefes@gmail.com</font></p>
 </div>
