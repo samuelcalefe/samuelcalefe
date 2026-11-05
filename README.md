@@ -20,7 +20,7 @@
 
   <hr />
 
-  <!-- Logos SENAI e WEG lado a lado (puxando da pasta do repositório) -->
+  <!-- Logos SENAI e WEG lado a lado -->
   <p align="center">
     <img src="./senai.png" height="35" alt="Logo SENAI" />
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,5 +30,5 @@
   <hr />
 
   <!-- E-mail em fonte cinza -->
-  <p><font color="#A9A9A9">✉️samuel.calefes@gmail.com</font></p>
+  <p><font color="#888888">samuel.calefes@gmail.com</font></p>
 </div>
