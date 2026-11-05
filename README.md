@@ -20,11 +20,11 @@
 
   <hr />
 
-  <!-- Logos SENAI e WEG lado a lado (usando Badges confiáveis para GitHub) -->
+  <!-- Logos SENAI e WEG lado a lado (puxando da pasta do repositório) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/SENAI-005CA9?style=for-the-badge&logoColor=white" height="35" alt="SENAI" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/WEG-00579E?style=for-the-badge&logoColor=white" height="35" alt="WEG" />
+    <img src="./senai.png" height="35" alt="Logo SENAI" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./weg.png" height="35" alt="Logo WEG" />
   </p>
 
   <hr />
